@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFEC24B1-3780-4DF0-A141-69BBC70ACBA7</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>Define Enum</string>
 	<key>IDECodeSnippetTitle</key>
@@ -27,6 +27,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
