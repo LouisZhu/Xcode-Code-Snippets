@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>viewAppearAndDisappears</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>override func viewWillAppear(animated: Bool) {
+        super.viewWillAppear(animated)
+        &lt;#implenmentations#&gt;
+    }
+    
+    
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+    }
+    
+    
+    override func viewWillDisappear(animated: Bool) {
+        super.viewWillDisappear(animated)
+    }
+    
+    
+    override func viewDidDisappear(animated: Bool) {
+        super.viewDidDisappear(animated)
+    }</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8312456A-38F0-461D-A2A2-512B923FB870</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>View Appear and Disappears</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
